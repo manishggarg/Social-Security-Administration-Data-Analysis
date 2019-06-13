@@ -1,4 +1,4 @@
-The data is available in different CSV files on a yearly basis and compressed in a zip file.
+The data is available in different CSV files on a yearly basis
 
 Each CSV file contains Name, Sex, and the number of babies born that year with that name. 
 
